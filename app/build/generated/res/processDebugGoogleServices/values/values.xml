@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">486378854145</string>
+    <string name="google_api_key" translatable="false">AIzaSyB4Fh2olWrZDEbiWhk90kPUN_n1IrY8kM0</string>
+    <string name="google_app_id" translatable="false">1:486378854145:android:250126584e040c2d9a2d00</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB4Fh2olWrZDEbiWhk90kPUN_n1IrY8kM0</string>
+    <string name="google_storage_bucket" translatable="false">blood-bank-app-5f26a.appspot.com</string>
+    <string name="project_id" translatable="false">blood-bank-app-5f26a</string>
+</resources>
